@@ -350,7 +350,7 @@ FT-Transformer($x$) = Prediction(Block(. . .(Block(AppendCLS(FeatureTokenizer($x
 
 Block($x$) = ResidualPreNorm(FFN, ResidualPreNorm(MHSA, $x$))
 
-ResidualPreNorm(Module, $x$) = $x$$ + Dropout(Module(Norm($x$)))
+ResidualPreNorm(Module, $x$) = $x$ + Dropout(Module(Norm($x$)))
 
 FFN($x$) = Linear(Dropout(Activation(Linear($x$))))
 
