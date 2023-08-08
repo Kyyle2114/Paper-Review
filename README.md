@@ -11,6 +11,7 @@
 - [Network On Network for Tabular Data Classification in Real-world Applications](https://paperswithcode.com/paper/network-on-network-for-tabular-data)
 - [Why do tree-based models still outperform deep learning on tabular data?](https://paperswithcode.com/paper/why-do-tree-based-models-still-outperform)
 - [Revisiting Deep Learning Models for Tabular Data](https://paperswithcode.com/paper/revisiting-deep-learning-models-for-tabular)
+- [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://paperswithcode.com/paper/neural-oblivious-decision-ensembles-for-deep)
 
 ## Anomaly Detection
 
