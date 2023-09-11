@@ -19,4 +19,9 @@
 - [LSTM 오토인코더를 이용한 이상 탐지의 임계치 결정 방법](http://ki-it.com/xml/36441/36441.pdf)
 - [Deep Learning for Anomaly Detection: A Survey](https://paperswithcode.com/paper/deep-learning-for-anomaly-detection-a-survey)
 
+## Time Series Analysis
+
+- [Forecast Methods for Time Series Data: A Survey](https://ieeexplore.ieee.org/document/9461796)
+
 제 [velog](https://velog.io/@kyyle)에서도 관련 내용을 확인하실 수 있습니다.
+
