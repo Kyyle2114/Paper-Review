@@ -18,6 +18,7 @@
 - [머신러닝 기반 사용후핵연료 안전정보 이상치 탐지 : XGBoost와 OCSVM을 이용한 성능 비교](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11440224)
 - [LSTM 오토인코더를 이용한 이상 탐지의 임계치 결정 방법](http://ki-it.com/xml/36441/36441.pdf)
 - [Deep Learning for Anomaly Detection: A Survey](https://paperswithcode.com/paper/deep-learning-for-anomaly-detection-a-survey)
+- [LSTM-based Encoder-Decoder for Multi-sensor Anomaly Detection](https://paperswithcode.com/paper/lstm-based-encoder-decoder-for-multi-sensor)
 
 ## Time Series Analysis
 
