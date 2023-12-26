@@ -23,6 +23,7 @@
 ## Time Series Analysis
 
 - [Forecast Methods for Time Series Data: A Survey](https://ieeexplore.ieee.org/document/9461796)
+- [Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey](https://velog.io/@kyyle/Explainable-Artificial-Intelligence-XAI-on-Time-Series-Data-A-Survey)
 
 제 [velog](https://velog.io/@kyyle)에서도 관련 내용을 확인하실 수 있습니다.
 
