@@ -25,5 +25,8 @@
 - [Forecast Methods for Time Series Data: A Survey](https://ieeexplore.ieee.org/document/9461796)
 - [Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey](https://velog.io/@kyyle/Explainable-Artificial-Intelligence-XAI-on-Time-Series-Data-A-Survey)
 
+## Weakly Supervised Learning
+- [A brief introduction to weakly supervised learning](https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=A+brief+introduction+to+weakly+supervised+learning&btnG=)
+
 제 [velog](https://velog.io/@kyyle)에서도 관련 내용을 확인하실 수 있습니다.
 
