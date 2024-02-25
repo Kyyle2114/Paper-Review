@@ -56,7 +56,7 @@ Inexact supervision은 supervision information은 주어졌지만, 원하는 만
 
 ## Multiple Instance Learning
 
-Inexact supervision 문제를 해결하려는 가장 대표적인 접근 방법은 **Multiple Instance Learning(MIL)**임. MIL의 경우 주어진 문제를 **bag**과 **instance**로 나누어, bag에 대한 예측을 수행함. 
+Inexact supervision 문제를 해결하려는 가장 대표적인 접근 방법은 **Multiple Instance Learning(MIL)** 임. MIL의 경우 주어진 문제를 **bag**과 **instance**로 나누어, bag에 대한 예측을 수행함. 
 
 ![](https://velog.velcdn.com/images/kyyle/post/dc7cfcb8-e090-4193-ab35-46f6093df7f6/image.png)
 
