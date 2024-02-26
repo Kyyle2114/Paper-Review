@@ -31,5 +31,5 @@
 - [Revisiting Deep Learning Models for Tabular Data](https://paperswithcode.com/paper/revisiting-deep-learning-models-for-tabular)
 - [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://paperswithcode.com/paper/neural-oblivious-decision-ensembles-for-deep)
 
-제 [velog](https://velog.io/@kyyle)에서도 관련 내용을 확인하실 수 있습니다.
+제 [velog](https://velog.io/@kyyle/series/%EB%85%BC%EB%AC%B8-%EC%A0%95%EB%A6%AC)에서도 관련 내용을 확인하실 수 있습니다.
 
