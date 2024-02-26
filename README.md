@@ -4,14 +4,11 @@
 
 다음은 논문 리스트입니다. 논문의 제목을 클릭하여 원본 링크로 이동할 수 있습니다.
 
-## Deep Tabular Learning
+## AI for Digital Pathology
+- [Deep Learning for Identifying Metastatic Breast Cancer](https://arxiv.org/pdf/1606.05718.pdf)
 
-- [TabNet: Attentive Interpretable Tabular Learning](https://paperswithcode.com/paper/tabnet-attentive-interpretable-tabular)
-- [TABULAR DATA: DEEP LEARNING IS NOT ALL YOU NEED](https://paperswithcode.com/paper/tabular-data-deep-learning-is-not-all-you)
-- [Network On Network for Tabular Data Classification in Real-world Applications](https://paperswithcode.com/paper/network-on-network-for-tabular-data)
-- [Why do tree-based models still outperform deep learning on tabular data?](https://paperswithcode.com/paper/why-do-tree-based-models-still-outperform)
-- [Revisiting Deep Learning Models for Tabular Data](https://paperswithcode.com/paper/revisiting-deep-learning-models-for-tabular)
-- [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://paperswithcode.com/paper/neural-oblivious-decision-ensembles-for-deep)
+## Weakly Supervised Learning
+- [A brief introduction to weakly supervised learning](https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=A+brief+introduction+to+weakly+supervised+learning&btnG=)
 
 ## Anomaly Detection
 
@@ -25,8 +22,14 @@
 - [Forecast Methods for Time Series Data: A Survey](https://ieeexplore.ieee.org/document/9461796)
 - [Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey](https://velog.io/@kyyle/Explainable-Artificial-Intelligence-XAI-on-Time-Series-Data-A-Survey)
 
-## Weakly Supervised Learning
-- [A brief introduction to weakly supervised learning](https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=A+brief+introduction+to+weakly+supervised+learning&btnG=)
+## Deep Tabular Learning
+
+- [TabNet: Attentive Interpretable Tabular Learning](https://paperswithcode.com/paper/tabnet-attentive-interpretable-tabular)
+- [TABULAR DATA: DEEP LEARNING IS NOT ALL YOU NEED](https://paperswithcode.com/paper/tabular-data-deep-learning-is-not-all-you)
+- [Network On Network for Tabular Data Classification in Real-world Applications](https://paperswithcode.com/paper/network-on-network-for-tabular-data)
+- [Why do tree-based models still outperform deep learning on tabular data?](https://paperswithcode.com/paper/why-do-tree-based-models-still-outperform)
+- [Revisiting Deep Learning Models for Tabular Data](https://paperswithcode.com/paper/revisiting-deep-learning-models-for-tabular)
+- [Neural Oblivious Decision Ensembles for Deep Learning on Tabular Data](https://paperswithcode.com/paper/neural-oblivious-decision-ensembles-for-deep)
 
 제 [velog](https://velog.io/@kyyle)에서도 관련 내용을 확인하실 수 있습니다.
 
