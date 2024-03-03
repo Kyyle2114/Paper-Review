@@ -8,9 +8,13 @@
 - [Deep Learning for Identifying Metastatic Breast Cancer](https://arxiv.org/pdf/1606.05718.pdf)
 - [Effective active learning in digital pathology: A case study in tumor infiltrating lymphocytes](https://www.sciencedirect.com/science/article/pii/S0169260722002103)
 - [Terabyte-scale Deep Multiple Instance Learning for Classification and Localization in Pathology](https://arxiv.org/pdf/1805.06983.pdf)
+- [Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)
+- [Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels](https://www.sciencedirect.com/science/article/pii/S1361841522001347)
 
 ## Weakly Supervised Learning
 - [A brief introduction to weakly supervised learning](https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=A+brief+introduction+to+weakly+supervised+learning&btnG=)
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
+- [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf)
 
 ## Anomaly Detection
 
