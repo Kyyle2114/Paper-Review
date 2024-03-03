@@ -27,10 +27,11 @@ MIL의 컨셉에 따라, 각 이미지 슬라이드 $s_i$를 여러 개의 insta
 
 bag $s_i$의 top-ranked instance의 index를 $k_i$라 할 때, 위와 같은 전제 조건을 다음의 loss function($l$)으로 학습할 수 있음. $\bar{o_i}$는 $s_i$의 모든 instance (probability) score를 포함하는 list of vectors임.  
 
-$$
-k_i = \text{argmax}(\bar{o_i}) \\ \tilde{y_i} = f_{\theta}(b_{i, k}) \\
-l = -w_1[y_i \log(\tilde{y_i})] - w_0[(1 - y_i) \log (1 - \tilde{y_i})]
-$$
+$$k_i = \text{argmax}(\bar{o_i})$$
+
+$$\tilde{y_i} = f_{\theta}(b_{i, k})$$
+
+$$l = -w_1[y_i \log(\tilde{y_i})] - w_0[(1 - y_i) \log (1 - \tilde{y_i})]$$
 
 loss function $l$은 cross-entropy 함수의 변형으로, 양성/음성 클래스의 불균형을 고려하여 가중치 $w_o, w_1$을 추가하였음. 양성 클래스의 수가 훨씬 적으므로, 일반적으로 $w_1$의 값을 크게 설정함. 본 논문에서는 $w_1=0.9$ 또는 $0.95$에서 좋은 결과를 얻었음.
 
