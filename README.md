@@ -6,6 +6,8 @@
 
 ## AI for Digital Pathology
 - [Deep Learning for Identifying Metastatic Breast Cancer](https://arxiv.org/pdf/1606.05718.pdf)
+- [Effective active learning in digital pathology: A case study in tumor infiltrating lymphocytes](https://www.sciencedirect.com/science/article/pii/S0169260722002103)
+- [Terabyte-scale Deep Multiple Instance Learning for Classification and Localization in Pathology](https://arxiv.org/pdf/1805.06983.pdf)
 
 ## Weakly Supervised Learning
 - [A brief introduction to weakly supervised learning](https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=A+brief+introduction+to+weakly+supervised+learning&btnG=)
