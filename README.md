@@ -15,6 +15,7 @@
 - [A brief introduction to weakly supervised learning](https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=A+brief+introduction+to+weakly+supervised+learning&btnG=)
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
 - [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf)
+- [Multiple Instance Detection Network with Online Instance Classifier Refinement](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_Instance_Detection_CVPR_2017_paper.pdf)
 
 ## Anomaly Detection
 
