@@ -10,6 +10,7 @@
 - [Terabyte-scale Deep Multiple Instance Learning for Classification and Localization in Pathology](https://arxiv.org/pdf/1805.06983.pdf)
 - [Joint Semi-supervised and Active Learning for Segmentation of Gigapixel Pathology Images with Cost-Effective Labeling](https://openaccess.thecvf.com/content/ICCV2021W/CDPath/papers/Lai_Joint_Semi-Supervised_and_Active_Learning_for_Segmentation_of_Gigapixel_Pathology_ICCVW_2021_paper.pdf)
 - [Multi-layer pseudo-supervision for histopathology tissue semantic segmentation using patch-level classification labels](https://www.sciencedirect.com/science/article/pii/S1361841522001347)
+- [Semi-supervised training of deep convolutional neural networks with heterogeneous data and few local annotations: An experiment on prostate histopathology image classification](https://www.sciencedirect.com/science/article/pii/S1361841521002115?ref=pdf_download&fr=RR-2&rr=863268ea79b93103)
 
 ## Weakly Supervised Learning
 - [A brief introduction to weakly supervised learning](https://scholar.google.co.kr/scholar?hl=ko&as_sdt=0%2C5&q=A+brief+introduction+to+weakly+supervised+learning&btnG=)
