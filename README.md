@@ -18,6 +18,7 @@
 - [FixMatch: Simplifying Semi-Supervised Learning with Consistency and Confidence](https://arxiv.org/ftp/arxiv/papers/2001/2001.07685.pdf)
 - [Multiple Instance Detection Network with Online Instance Classifier Refinement](https://openaccess.thecvf.com/content_cvpr_2017/papers/Tang_Multiple_Instance_Detection_CVPR_2017_paper.pdf)
 - [WSOD2 : Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_WSOD2_Learning_Bottom-Up_and_Top-Down_Objectness_Distillation_for_Weakly-Supervised_Object_ICCV_2019_paper.pdf)
+- [Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Instance-Aware_Context-Focused_and_Memory-Efficient_Weakly_Supervised_Object_Detection_CVPR_2020_paper.pdf)
 
 ## Anomaly Detection
 
