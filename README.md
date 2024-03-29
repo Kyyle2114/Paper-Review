@@ -20,6 +20,11 @@
 - [WSOD2 : Learning Bottom-up and Top-down Objectness Distillation for Weakly-supervised Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zeng_WSOD2_Learning_Bottom-Up_and_Top-Down_Objectness_Distillation_for_Weakly-Supervised_Object_ICCV_2019_paper.pdf)
 - [Instance-Aware, Context-Focused, and Memory-Efficient Weakly Supervised Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ren_Instance-Aware_Context-Focused_and_Memory-Efficient_Weakly_Supervised_Object_Detection_CVPR_2020_paper.pdf)
 
+## Image Segmentation
+- [Explicit Visual Prompting for Low-Level Structure Segmentations](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.pdf)
+- [SAM-Adapter: Adapting Segment Anything in Underperformed Scenes](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Chen_SAM-Adapter_Adapting_Segment_Anything_in_Underperformed_Scenes_ICCVW_2023_paper.pdf)
+- [Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.12620.pdf)
+
 ## Anomaly Detection
 
 - [머신러닝 기반 사용후핵연료 안전정보 이상치 탐지 : XGBoost와 OCSVM을 이용한 성능 비교](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11440224)
