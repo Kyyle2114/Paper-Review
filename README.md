@@ -24,6 +24,7 @@
 - [Explicit Visual Prompting for Low-Level Structure Segmentations](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.pdf)
 - [SAM-Adapter: Adapting Segment Anything in Underperformed Scenes](https://openaccess.thecvf.com/content/ICCV2023W/VCL/papers/Chen_SAM-Adapter_Adapting_Segment_Anything_in_Underperformed_Scenes_ICCVW_2023_paper.pdf)
 - [Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation](https://arxiv.org/pdf/2304.12620.pdf)
+- [MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation](https://arxiv.org/pdf/2403.14103)
 
 ## Anomaly Detection
 
