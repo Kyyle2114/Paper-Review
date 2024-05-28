@@ -36,7 +36,8 @@
 ## Time Series Analysis
 
 - [Forecast Methods for Time Series Data: A Survey](https://ieeexplore.ieee.org/document/9461796)
-- [Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey](https://velog.io/@kyyle/Explainable-Artificial-Intelligence-XAI-on-Time-Series-Data-A-Survey)
+- [Explainable Artificial Intelligence (XAI) on Time Series Data: A Survey](https://arxiv.org/pdf/2104.00950)
+- [GENERATIVE ADVERSARIAL NETWORKS IN TIME SERIES: A SURVEY AND TAXONOMY](https://arxiv.org/pdf/2107.11098)
 
 ## Deep Tabular Learning
 
